@@ -1,7 +1,3 @@
-# Report
-
-## Results Summary
-
 | Run | Acc | Macro-F1 | Weighted-F1 | Top-5 |
 |---|---:|---:|---:|---:|
 | effb0_224_adam_cosine_ls05 | 0.924 | 0.916 | 0.922 | 0.995 |

@@ -1,0 +1,7 @@
+{
+  "model": "efficientnet_b0",
+  "img_size": 224,
+  "epochs": 10,
+  "batch_size": 128,
+  "augment": true
+}
