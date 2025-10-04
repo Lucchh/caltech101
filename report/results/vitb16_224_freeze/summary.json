@@ -1,0 +1,7 @@
+{
+  "model": "vit_b_16",
+  "img_size": 224,
+  "epochs": 10,
+  "batch_size": 256,
+  "augment": true
+}

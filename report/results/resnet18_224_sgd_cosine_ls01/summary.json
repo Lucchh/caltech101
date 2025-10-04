@@ -1,0 +1,7 @@
+{
+  "model": "resnet18",
+  "img_size": 224,
+  "epochs": 10,
+  "batch_size": 64,
+  "augment": true
+}
