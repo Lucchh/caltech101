@@ -10,6 +10,6 @@ Pillow>=9.1
 
 # Classical features
 scikit-image>=0.20
-
+opencv-python
 # Optional (for configs/report)
 pyyaml>=6.0
